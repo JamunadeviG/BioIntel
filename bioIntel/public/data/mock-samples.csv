@@ -1,0 +1,11 @@
+id,country,year,lineage,variant,mutations,resistance
+SRR100001,India,2020,L2,V1,rpoB_S450L;katG_S315T,High
+SRR100002,South Africa,2019,L4,V2,inhA_c-15t,Medium
+SRR100003,USA,2021,L3,V1,gyrA_D94G,High
+SRR100004,UK,2018,L1,V3,pncA_H51R,Low
+SRR100005,Brazil,2022,L4,V4,embB_M306V,Medium
+SRR100006,China,2020,L2,V2,katG_S315T;gyrA_A90V,High
+SRR100007,Russia,2017,L6,V3,rpoB_S450L,Medium
+SRR100008,Peru,2023,L5,V1,inhA_c-15t;embB_M306V,Low
+SRR100009,Kenya,2021,L3,V2,gyrA_A90V,Medium
+SRR100010,Spain,2019,L4,V4,pncA_H51R;katG_S315T,High
